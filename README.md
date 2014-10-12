@@ -15,7 +15,7 @@ Installation
 6. Drag and drop the images you want to be parallaxed onto the element slots on the backgrounds tab
 7. Move the images from the front to the back in 3D space to apply the parallax (Use the Z index) The further back the less parallaxing, The futher forward the more parallaxing
 7. Change the smoothing factor to a desired number! Play around with it abit, Dont go mad though
-8. Your done! Enjoy you new effect! 
+8. Your done! Enjoy your new effect! 
 
 ==========
 Licence
