@@ -1,12 +1,10 @@
 Parallax2D
 ==========
 Description
-
-A simple Parallax script for Unity (2D)
+A simple Parallax script for Unity (2D) using 'Z' index's
 
 ==========
 Installation
-
 1. Download [the files](https://github.com/joedanhol/Parallax2D/archive/master.zip)
 2. Drag and drop the files into your Unity project(s)
 3. Make a _GM (Game Manager) Empty object
@@ -19,7 +17,6 @@ Installation
 
 ==========
 Licence
-
 Copyright (c) 2014 joedanhol 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
