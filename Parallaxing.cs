@@ -55,3 +55,5 @@ public class Parallaxing : MonoBehaviour {
 
 	}
 }
+
+//Code written by joedanhol, find this on GitHub at https://github.com/joedanhol/Parallax2D :D Last test done 12/03/15
