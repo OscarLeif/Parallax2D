@@ -26,7 +26,7 @@ public class Parallaxing : MonoBehaviour {
 
 		//assigning coresponding parallaxScales
 		for (int i = 0; i < backgrounds.Length; i++) {
-			parallaxScales[i] = backgrounds[i].position.z*-1;
+			parallaxScales[i] = backgrounds[i].position.z * -1;
 		}
 	}
 
@@ -43,10 +43,10 @@ public class Parallaxing : MonoBehaviour {
 			float backgroundTargetPosX = backgrounds[i].position.x + parallax;
 
 			//create a target position which is the backgrounds current position with it's target x position
-			Vector3 backgroundTargetPos = new Vector3 (backgroundTargetPosX, backgrounds[i].position.y, backgrounds[i].position.z);
+			Vector3 backgroundTargetPos = new Vector3(backgroundTargetPosX, backgrounds[i].position.y, backgrounds[i].position.z);
 
 			//fade batween current position and the target position using lerp
-			backgrounds[i].position = Vector3.Lerp( backgrounds[i].position, backgroundTargetPos, smoothing * Time.deltaTime);
+			backgrounds[i].position = Vector3.Lerp(backgrounds[i].position, backgroundTargetPos, smoothing * Time.deltaTime);
 
 		}
 
