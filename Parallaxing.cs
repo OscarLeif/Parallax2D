@@ -29,10 +29,10 @@ public class Parallaxing : MonoBehaviour {
 			parallaxScales[i] = backgrounds[i].position.z*-1;
 		}
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-	
+
 		//for each background
 
 		for (int i = 0; i < backgrounds.Length; i++) {
@@ -56,4 +56,10 @@ public class Parallaxing : MonoBehaviour {
 	}
 }
 
-//Code written by joedanhol, find this on GitHub at https://github.com/joedanhol/Parallax2D :D Last test done 12/03/15
+/*
+
+Code written by joedanhol, find this on GitHub at https://github.com/joedanhol/Parallax2D :D Last test done 27/04/15
+Feel free to edit this at your own will, this code was made to be compleatly hackable, and feel free to message me at
+joedanhol@gmail.com for any help required.
+
+*/
