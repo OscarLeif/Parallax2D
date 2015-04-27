@@ -31,7 +31,7 @@ public class Parallaxing : MonoBehaviour {
 	}
 
 	// Update is called once per frame
-	void Update () {
+	void Update() {
 
 		//for each background
 
