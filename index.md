@@ -10,8 +10,5 @@ Parallax is a displacement or difference in the apparent position of an object v
 ### Want to change the script?
 Go ahead, Have fun! This script is entirely open-source, and is licensed under the MIT Licence, You can read it [here](http://opensource.org/licenses/MIT), or in the readme file included with the Script 
 
-### Support or Contact
-Having trouble with the script? Email me at contact@joedanhol.net, Or drop a error report [here](https://github.com/joedanhol/Parallax2D/issues), I also have a website, [joedanhol.net](https://www.joedanhol.net)! Go check it out, I write on a blog and other stuff!
-
 ### Authors and Contributors
-joedanhol ([joedanhol.net](https://www.joedanhol.net), Author)
+Me, and just me
