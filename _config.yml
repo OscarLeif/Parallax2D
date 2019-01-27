@@ -1,0 +1,8 @@
+title: Parallax2D
+description: A simple Parallax script for Unity (2D)
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
